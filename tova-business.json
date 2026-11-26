@@ -1,0 +1,68 @@
+{
+  "schema": 1,
+  "source": "tova-explore",
+  "generatedAt": "2026-11-26T01:08:18.982Z",
+  "slug": "permanentpress",
+  "name": "Permanent Press Printers",
+  "city": "Christchurch",
+  "industry": {
+    "label": "Printers & copy shops",
+    "niche": "printers & copy shops",
+    "group": "Other services"
+  },
+  "contact": {
+    "phone": "+6433841296",
+    "email": "info@permanentpress.co.nz",
+    "address": "49 Phillips Street, Christchurch"
+  },
+  "social": {},
+  "about": {
+    "overview": "We take your dreams and ideas, and transport them into a world where impressions last. We specialise in creating every conceivable possibility with Plastics and Cardboards, through our UV Printing & Packaging capabilities. Specialising in UV offset printing enables us to print onto a wide variety of substrates with inks that dry & adhere instantaneously.",
+    "tagline": "Welcome to Permanent Press Ltd",
+    "services": [
+      "Plastic -",
+      "Vinyl -",
+      "Coatings -",
+      "UV Cardboard & Commercial Printers"
+    ]
+  },
+  "before": {
+    "url": "http://www.permanentpress.co.nz",
+    "domain": "permanentpress.co.nz",
+    "finalUrl": "http://www.permanentpress.co.nz/",
+    "title": "Specialist Printers of Plastic & Cardboard Products - Permanent Press",
+    "pages": 1,
+    "score": 66,
+    "assessedAt": "2026-11-25T12:56:51.672Z",
+    "issues": [
+      {
+        "id": "no-viewport",
+        "title": "Not mobile-friendly",
+        "evidence": "The page has no responsive viewport tag, so phones show a shrunken desktop layout."
+      },
+      {
+        "id": "no-https",
+        "title": "Not served over HTTPS",
+        "evidence": "Final URL is http://www.permanentpress.co.nz/. Browsers label this site \"Not secure\"."
+      },
+      {
+        "id": "no-contact-path",
+        "title": "No easy way to get in touch",
+        "evidence": "No tap-to-call link and no enquiry form on the homepage."
+      },
+      {
+        "id": "no-schema",
+        "title": "No local-business search markup",
+        "evidence": "No structured data, so Google has less to show for the business."
+      }
+    ],
+    "screenshot": "screenshots/before-desktop.jpg"
+  },
+  "ours": {
+    "pagesUrl": "https://tova-studio.github.io/permanent-press-printers/",
+    "repoUrl": "https://github.com/tova-studio/permanent-press-printers",
+    "generator": "claude",
+    "screenshot": "screenshots/after-desktop.jpg",
+    "publishedAt": "2026-11-26T01:08:18.982Z"
+  }
+}
